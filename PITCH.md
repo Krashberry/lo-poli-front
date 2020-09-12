@@ -13,8 +13,8 @@
   My app will feature the ability to create tokens, share those tokens, and download those tokens.
 - Set up your project and user stories in Trello.\
   I used Tape instead to track my project and progress. Here are some screenshots showing how I have it laid out. 
-  project_tracking.
-  ![project tracking](./assets/pitch/project_tracking.png)
+  project_tracking.\
+![project tracking](./assets/pitch/project_tracking.png)
 
 ## Wireframes: 
 - Sketch out what your core pages will look like and how they will work. 
