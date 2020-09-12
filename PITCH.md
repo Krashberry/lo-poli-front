@@ -20,7 +20,7 @@
 
 ## Data Models: 
 - Draw out the models and any associations for your project in an entity relationship diagram (ERD).
-![erd - entinity relationship documents](./asssets/erd/token_erd.png)
+![erd - entinity relationship documents](./assets/erd/token_erd.png)
 
 ## Milestones: 
 - Divide your work into parts: 
