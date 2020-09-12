@@ -1,7 +1,7 @@
 # Lo-Poli.ME (PITCH)
 
 ## Scope: 
-- What are you planning to build? 
+- What are you planning to build? \n
   Lo-Poli.ME will be a profile picture/icon/token maker where the user can create a low-poly token. 
 - What do you reasonably think you can implement in the time period?
   I think I can reasonably get done what I have set out to do, without too much concern. This includes the user being able to crate a token that they can download, the user being able to perform full CRUD on their tokens, and the user being able to share their tokens.
