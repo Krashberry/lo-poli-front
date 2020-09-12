@@ -1,18 +1,20 @@
 # Lo-Poli.ME (PITCH)
 
 ## Scope: 
-- What are you planning to build? 
+- What are you planning to build? \
   Lo-Poli.ME will be a profile picture/icon/token maker where the user can create a low-poly token. 
-- What do you reasonably think you can implement in the time period?
+- What do you reasonably think you can implement in the time period?\
   I think I can reasonably get done what I have set out to do, without too much concern. This includes the user being able to crate a token that they can download, the user being able to perform full CRUD on their tokens, and the user being able to share their tokens.
 
 ## User Stories: 
-- Who is your user?
+- Who is your user?\
   My user is likley a teen, young adult, or adult interested in video games, tabletop gaming, and/or hobbies related to genre fiction. 
-- What features will your app have?
+- What features will your app have?\
   My app will feature the ability to create tokens, share those tokens, and download those tokens.
-- Set up your project and user stories in Trello.
+- Set up your project and user stories in Trello.\
   I used Tape instead to track my project and progress. Here are some screenshots showing how I have it laid out. 
+  project_tracking.
+  ![project tracking](./assets/pitch/project_tracking.png)
 
 ## Wireframes: 
 - Sketch out what your core pages will look like and how they will work. 
@@ -54,4 +56,4 @@
 If you're using an external API or scraping a website, make sure you can get that data. If you're using a new language, framework, or tool, go through its getting started tutorial. We will ask to see your results.
 
 "Hello Cube!" project I made with Three.js, a pinch of HTML, and JavaScript.
-![Hello Cube which renders three floating rotating cubes in 3d in the browser](getting_started.gif)
+![Hello Cube which renders three floating rotating cubes in 3d in the browser](./assets/pitch/getting_started.gif)
